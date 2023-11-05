@@ -1,0 +1,23 @@
+:root {
+  --ff-base: "Verdana", "DeJaVu Sans", "sans-serif";
+}
+
+.odd {
+  font-family: var(--ff-base);
+  background-color: hsl(0, 50%, 50%);
+}
+
+#third {
+  font-size: 24px;
+}
+
+#second {
+  font-size: 36px;
+  color: hsl(236, 50%, 50%);
+}
+
+#fourth {
+  background-color: hsl(130, 50%, 50%);
+  font-size: 24px;
+  font-weight: bold;
+}
